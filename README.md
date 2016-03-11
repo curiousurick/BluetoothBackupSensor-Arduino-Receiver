@@ -7,4 +7,5 @@ This was a part of our project for CSS 427 at UW Bothell.
 Written by:
 
 [@curiousurick](https://github.com/curiousurick)
+
 [@jbobotek](https://github.com/jbobotek)
